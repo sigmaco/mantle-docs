@@ -3,6 +3,14 @@ Mantle Programming Guide and API Reference
 
 This is the revision 1.0 of the programming guide and API reference for Mantle, published in 2015.03.06, and its whitepaper published in March of 2014.
 
+Mantle is a initiative from AMD to create a new programming model that can fully exploit the capabilities of modern GPUs. 
+
+In collaboration with leading cross-platform game developers, AMD has created an API specification and graphics driver that enable this model on PCs with graphics hardware based on the Graphics Core Next (GCN) architecture.
+
+Mantle is all about removing the obstacles that constrain game developers today and allowing them to unleash the full power of modern GPUs.
+
+This white paper describes the motivation behind the creation of Mantle and provides a high-level overview of its most important features and benefits.
+
 ## Developer Manifesto
 
 The Mantle API imposes upon PC graphics developers a new set of rules. 
