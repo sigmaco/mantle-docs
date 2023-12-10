@@ -38,6 +38,6 @@ This documentation was taken as part of the history of computer graphics and is 
 
 Federação SIGMA, formerly doing business as SIGMA Co. (contraction of SIGMA Collective), is a cybercultist conglomerate, of public interest and private law, established to bring together, organize and orchestrate, in a single mass, all societies, service boards, operational columns, and their respective resources, assets and rights under the common authority and singular ownership of SIGMA, the Latin American science, technology and cyber engineering collective.
 
-(c) 2011-2023 Federação SIGMA. All rights reserved; to their respective elaborators and collaborators.
+© 2011-2023 Federação SIGMA. All rights reserved; to their respective elaborators and collaborators.
 
 Technical contact: technology@sigmaco.org.
