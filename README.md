@@ -1,7 +1,7 @@
 # mantle-docs
 Mantle Programming Guide and API Reference
 
-This is the revision 1.0 of the programming guide and API reference for Mantle, published in 2015.03.06.
+This is the revision 1.0 of the programming guide and API reference for Mantle, published in 2015.03.06, and its whitepaper published in March of 2014.
 
 ## Developer Manifesto
 
